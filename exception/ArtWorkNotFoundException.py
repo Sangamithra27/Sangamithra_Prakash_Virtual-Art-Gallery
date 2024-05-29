@@ -1,0 +1,2 @@
+class ArtWorkNotFoundException(Exception):
+    pass
